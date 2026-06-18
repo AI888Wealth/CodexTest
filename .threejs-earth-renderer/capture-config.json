@@ -1,0 +1,10 @@
+{
+  "url": "http://127.0.0.1:56895/index.html",
+  "framesDir": "C:\\Windows\\Temp\\threejs-earth-frames-op52urvg",
+  "startFrame": 0,
+  "endFrame": 1000000,
+  "renderScale": 1,
+  "timeoutMs": 120000,
+  "executablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "verbose": false
+}
